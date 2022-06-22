@@ -12,9 +12,9 @@ The code is written in python. To use it you will need:
 
 Before running the code make sure you load the 'embedding' and 'datasets' folders.
 
-## datasets
+## the datasets folder 
 * positive_samples.txt (2000 positive reviews）
 * negative_samples.txt (2000 negative reviews）
 
-## embedding 
+## the embedding folder  
 
