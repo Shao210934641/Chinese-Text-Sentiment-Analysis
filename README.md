@@ -1,6 +1,7 @@
 # Chinese-Text-Sentiment-Analysis
 
-前面这里先介绍一下，bulabulabula............
+前面这里先介绍一下，bulabulabula............  
+Chinese text sentiment analysis using deep learning models such as LSTM.
 
 ## Getting Started
 
