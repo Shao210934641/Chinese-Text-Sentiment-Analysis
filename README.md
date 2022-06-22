@@ -4,7 +4,7 @@
 
 The code is written in python. To use it you will need:
 
-* python 3.6 
+* python 3.8.8
 * numpy
 * matplotlib
 * jieba (Chinese word segmentation module) v0.42.1 
