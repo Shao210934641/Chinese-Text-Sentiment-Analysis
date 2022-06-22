@@ -16,8 +16,8 @@ Before running <I>main.ipynb</I> make sure you load the <I>embedding</I> and <I>
 (Depending on which Ide/running platform you are using, you may need to change the relative location of the <I>datasets</I> and <I>embedding</I> folders in <I>main.ipynb</I>.)
 
 ## jieba Usage
-* pip install jieba 
-* import jieba 
+* `pip install jieba`
+* `import jieba` 
 
 ## the <I>datasets</I> Folder 
 * <I>positive_samples.txt</I> (2000 positive reviews, label=1）
