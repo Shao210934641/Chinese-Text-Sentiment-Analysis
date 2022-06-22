@@ -1,6 +1,6 @@
 # Chinese-Text-Sentiment-Analysis
 
-Getting Started
+## Getting Started
 
 The code is written in python. To use it you will need:
 
