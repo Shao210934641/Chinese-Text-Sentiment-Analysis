@@ -12,16 +12,16 @@ The code is written in python. To use it you will need:
 * jieba (Chinese word segmentation module) v0.42.1 
 * tensorflow 2.8.2
 
-Before running <I>main.ipynb</I> make sure you load the 'embedding' and 'datasets' folders.
+Before running <I>main.ipynb</I> make sure you load the <I>embedding</I> and <I>datasets</I> folders.
 
 ## jieba Usage
 * pip install jieba 
 * import jieba 
 
-## the datasets Folder 
-* positive_samples.txt (2000 positive reviews, label=1）
-* negative_samples.txt (2000 negative reviews, label=0）
+## the <I>datasets</I> Folder 
+* <I>positive_samples.txt</I> (2000 positive reviews, label=1）
+* <I>negative_samples.txt</I> (2000 negative reviews, label=0）
 
-## the embedding Folder  
-* sgns.zhihu.bigram.bz2 （Pre-trained word vectors model）<br />Download from: https://github.com/Embedding/Chinese-Word-Vectors
+## the <I>embedding</I> Folder  
+* <I>sgns.zhihu.bigram.bz2</I> （Pre-trained word vectors model）<br />Download from: https://github.com/Embedding/Chinese-Word-Vectors
 
