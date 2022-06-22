@@ -5,10 +5,10 @@
 The code is written in python. To use it you will need:
 
 * python 3.8.8
-* numpy
-* matplotlib
+* numpy 1.21.6 
+* matplotlib 3.2.2 
 * jieba (Chinese word segmentation module) v0.42.1 
-* tensorflow 
+* tensorflow 2.8.2
 
 Before running the 210934641.ipynb file make sure you load the 'embedding' and 'datasets' folders.
 
