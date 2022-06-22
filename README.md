@@ -13,7 +13,7 @@ The code is written in python and runs on Google Colab. To use it you will need:
 * tensorflow 2.8.2
 
 Before running <I>main.ipynb</I> make sure you load the <I>embedding</I> and <I>datasets</I> folders.  
-(Depending on which Ide/running platform you are using, you may need to change the relative location used for reading the <I>datasets</I> and <I>embedding</I> folders in <I>main.ipynb</I>.)
+(Depending on which Ide/running platform you are using, you may need to change the relative location of the <I>datasets</I> and <I>embedding</I> folders in <I>main.ipynb</I>.)
 
 ## jieba Usage
 * pip install jieba 
