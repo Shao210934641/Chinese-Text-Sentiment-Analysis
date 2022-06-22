@@ -17,4 +17,5 @@ Before running the code make sure you load the 'embedding' and 'datasets' folder
 * negative_samples.txt (2000 negative reviews）
 
 ## the embedding folder  
+* sgns.zhihu.bigram.bz2 （Pre-trained word vector model） 
 
