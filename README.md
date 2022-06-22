@@ -4,13 +4,13 @@
 
 The code is written in python. To use it you will need:
 
-* python 3.8 
+* python 3.6 
 * numpy
 * matplotlib
 * jieba (Chinese word segmentation module) v0.42.1 
 * tensorflow 
 
-Before running the code make sure you load the 'embedding' and 'datasets' folders.
+Before running the 210934641.ipynb file make sure you load the 'embedding' and 'datasets' folders.
 
 ## the datasets folder 
 * positive_samples.txt (2000 positive reviews, label=1）
