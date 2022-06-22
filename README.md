@@ -17,7 +17,7 @@ Before running <I>main.ipynb</I> make sure you load the <I>embedding</I> and <I>
 
 ## jieba Usage
 * `pip install jieba`
-* `import jieba` 
+* `import jieba` <br />related links: https://github.com/fxsjy/jieba
 
 ## the <I>datasets</I> Folder 
 * <I>positive_samples.txt</I> (2000 positive reviews, label=1）
