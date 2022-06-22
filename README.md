@@ -12,7 +12,7 @@ The code is written in python. To use it you will need:
 * jieba (Chinese word segmentation module) v0.42.1 
 * tensorflow 2.8.2
 
-Before running main.ipynb make sure you load the 'embedding' and 'datasets' folders.
+Before running <b>main.ipynb</b> make sure you load the 'embedding' and 'datasets' folders.
 
 ## jieba Usage
 * pip install jieba 
