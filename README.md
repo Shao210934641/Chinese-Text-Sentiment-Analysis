@@ -1,9 +1,10 @@
 # Chinese-Text-Sentiment-Analysis
 
+前面这里先介绍一下，bulabulabula............
+
 ## Getting Started
 
 The code is written in python. To use it you will need:
-
 * python 3.8.8
 * numpy 1.21.6 
 * matplotlib 3.2.2 
