@@ -13,9 +13,9 @@ The code is written in python. To use it you will need:
 Before running the code make sure you load the 'embedding' and 'datasets' folders.
 
 ## the datasets folder 
-* positive_samples.txt (2000 positive reviews）
-* negative_samples.txt (2000 negative reviews）
+* positive_samples.txt (2000 positive reviews, label=1）
+* negative_samples.txt (2000 negative reviews, label=0）
 
 ## the embedding folder  
-* sgns.zhihu.bigram.bz2 （Pre-trained word vector model） 
+* sgns.zhihu.bigram.bz2 （Pre-trained word vector model） Download Address: https://github.com/Embedding/Chinese-Word-Vectors
 
