@@ -17,5 +17,6 @@ Before running the code make sure you load the 'embedding' and 'datasets' folder
 * negative_samples.txt (2000 negative reviews, label=0）
 
 ## the embedding folder  
-* sgns.zhihu.bigram.bz2 （Pre-trained word vector model） Download Address: https://github.com/Embedding/Chinese-Word-Vectors
+* sgns.zhihu.bigram.bz2 （Pre-trained word vector model） 
+Download Address: https://github.com/Embedding/Chinese-Word-Vectors
 
