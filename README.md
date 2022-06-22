@@ -14,10 +14,14 @@ The code is written in python. To use it you will need:
 
 Before running main.ipynb make sure you load the 'embedding' and 'datasets' folders.
 
-## the datasets folder 
+## jieba Usage
+* pip install jieba 
+* import jieba 
+
+## the datasets Folder 
 * positive_samples.txt (2000 positive reviews, label=1）
 * negative_samples.txt (2000 negative reviews, label=0）
 
-## the embedding folder  
+## the embedding Folder  
 * sgns.zhihu.bigram.bz2 （Pre-trained word vectors model）<br />Download Address: https://github.com/Embedding/Chinese-Word-Vectors
 
