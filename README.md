@@ -17,11 +17,11 @@ Before running <I>main.ipynb</I> make sure you load the <I>embedding</I> and <I>
 
 ## jieba Usage
 * `pip install jieba`
-* `import jieba` <br />related links: https://github.com/fxsjy/jieba
+* `import jieba` <br />Related links: https://github.com/fxsjy/jieba
 
 ## the <I>datasets</I> Folder 
-* <I>positive_samples.txt</I> (2000 positive reviews, label=1）
-* <I>negative_samples.txt</I> (2000 negative reviews, label=0）
+* <I>positive_samples.txt</I> (2000 Chinese positive reviews, label=1）
+* <I>negative_samples.txt</I> (2000 Chinese negative reviews, label=0）
 
 ## the <I>embedding</I> Folder  
 * <I>sgns.zhihu.bigram.bz2</I> （Pre-trained word vectors model）<br />Download from: https://github.com/Embedding/Chinese-Word-Vectors
