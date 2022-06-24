@@ -8,8 +8,9 @@ Chinese text sentiment analysis using deep learning models such as LSTM, BiLSTM 
 The code is written in python and runs on Google Colab. To use it you will need:
 * python 3.8.8
 * numpy 1.21.6 
-* matplotlib 3.2.2 
-* jieba (Chinese word segmentation module) v0.42.1 
+* matplotlib 3.2.2
+* jieba (Chinese word segmentation module) v0.42.1  
+* gensim 3.6.0 
 * tensorflow 2.8.2
 
 Before running <I>main.ipynb</I> make sure you load the <I>embedding</I> and <I>datasets</I> folders.  
