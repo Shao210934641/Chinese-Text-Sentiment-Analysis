@@ -1,19 +1,20 @@
 # Chinese-Text-Sentiment-Analysis
-
-前面这里先介绍一下，bulabulabula............  
 Chinese text sentiment analysis using deep learning models such as LSTM, BiLSTM and GRU.
+
+## ***Flowchart:***
+<center><img width=500 src="https://i.imgur.com/Ln5oRY1.png"></center>
 
 ## Getting Started
 
 The code is written in python and runs on Google Colab (CPU, not GPU). To use it you will need:
-* python 3.8.8
+* python 3.7.13
 * numpy 1.19.5
 * matplotlib 3.2.2
 * jieba 0.42.1  
 * gensim 4.1.2 
 * tensorflow 2.5.0
 
-Before running <I>main.ipynb</I> make sure you load the <I>embedding</I> and <I>datasets</I> folders.  
+Before running <I>main.ipynb</I> make sure you load the <I>embeddings</I> and <I>datasets</I> folders.  
 
 ## jieba Usage
 * `pip install jieba`
@@ -23,6 +24,6 @@ Before running <I>main.ipynb</I> make sure you load the <I>embedding</I> and <I>
 * <I>positive_samples.txt</I> (2000 Chinese positive reviews, label=1）
 * <I>negative_samples.txt</I> (2000 Chinese negative reviews, label=0）
 
-## The <I>embedding</I> Folder  
+## The <I>embeddings</I> Folder  
 * <I>sgns.zhihu.bigram.bz2</I> （Pre-trained word vectors model）<br />Download from: https://github.com/Embedding/Chinese-Word-Vectors
 
