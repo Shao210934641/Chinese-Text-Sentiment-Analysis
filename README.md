@@ -42,12 +42,12 @@ We tried several neural network structures, and because the training samples wer
 * After Embedding the first layer we used BiLSTM to return sequences, then the second layer of 16 units of LSTM did not return sequences but only the final result, and finally a fully linked layer with a sigmoid activation function to output the result.
 
 ## ***Test Results***
-<center><img width=600 src="https://i.imgur.com/2K9V6zW.png"></center>
+<center><img width=700 src="https://i.imgur.com/2K9V6zW.png"></center>
 <center><img width=600 src="https://i.imgur.com/vmmvES8.png"></center>
 
 ## ***Error Analysis***
 Through our analysis, we find that the meaning of the misclassified text is mostly ambiguous, and even humans can not easily determine the polarity. For example, this sentence with index 305 seems to have no element of satisfaction at all, but this example rating is marked as positive in the training sample, and the prediction of a negative rating made by our model seems reasonable.
-<center><img width=650 src="https://i.imgur.com/8mT1TtM.png"></center>
+<center><img width=700 src="https://i.imgur.com/8mT1TtM.png"></center>
 
 
 
