@@ -21,7 +21,7 @@ Before running <I>main.ipynb</I> make sure you load the <I>embeddings</I> and <I
 * `import jieba` <br />Related links: https://github.com/fxsjy/jieba
 
 ## <I>main.ipynb</I>
-* Executable file
+* The executable file
 
 
 ## The <I>datasets</I> Folder 
