@@ -1,7 +1,7 @@
 # Chinese-Text-Sentiment-Analysis
 Chinese text sentiment analysis using deep learning models such as LSTM, BiLSTM and GRU.
 
-## **flowchart.png** 
+## ***Flowchart***
 <center><img width=500 src="https://i.imgur.com/Ln5oRY1.png"></center>
 
 ## ***Getting Started***
@@ -24,10 +24,10 @@ Before running <I>main.ipynb</I> make sure you load the <I>embeddings</I> and <I
 * The executable file
 
 
-## The <I>datasets</I> Folder 
+## ***The datasets Folder*** 
 * <I>positive_samples.txt</I> (2000 Chinese positive reviews, label=1）
 * <I>negative_samples.txt</I> (2000 Chinese negative reviews, label=0）
 
-## The <I>embeddings</I> Folder  
+## ***The embeddings Folder***  
 * <I>sgns.zhihu.bigram.bz2</I> （Pre-trained word vectors model）<br />Download from: https://github.com/Embedding/Chinese-Word-Vectors
 
