@@ -1,10 +1,10 @@
 # Chinese-Text-Sentiment-Analysis
 Chinese text sentiment analysis using deep learning models such as LSTM, BiLSTM and GRU.
 
-## Flowchart
+## **flowchart.png** 
 <center><img width=500 src="https://i.imgur.com/Ln5oRY1.png"></center>
 
-## Getting Started
+## ***Getting Started***
 
 The code is written in python and runs on Google Colab (CPU, not GPU). To use it you will need:
 * python 3.7.13
@@ -16,11 +16,11 @@ The code is written in python and runs on Google Colab (CPU, not GPU). To use it
 
 Before running <I>main.ipynb</I> make sure you load the <I>embeddings</I> and <I>datasets</I> folders.  
 
-## jieba Usage
+## ***jieba Usage***
 * `pip install jieba`
 * `import jieba` <br />Related links: https://github.com/fxsjy/jieba
 
-## <I>main.ipynb</I>
+## ***main.ipynb***
 * The executable file
 
 
