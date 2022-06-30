@@ -5,7 +5,7 @@ Chinese text sentiment analysis using deep learning models such as LSTM, BiLSTM 
 
 ## Getting Started
 
-The code is written in python and runs on Google Colab. To use it you will need:
+The code is written in python and runs on Google Colab (CPU, not GPU). To use it you will need:
 * python 3.8.8
 * numpy 1.19.5
 * matplotlib 3.2.2
@@ -14,7 +14,6 @@ The code is written in python and runs on Google Colab. To use it you will need:
 * tensorflow 2.5.0
 
 Before running <I>main.ipynb</I> make sure you load the <I>embedding</I> and <I>datasets</I> folders.  
-(Depending on which Ide/running platform you are using, you may need to change the relative location of the <I>datasets</I> and <I>embedding</I> folders in the <I>main.ipynb</I> file.)
 
 ## jieba Usage
 * `pip install jieba`
