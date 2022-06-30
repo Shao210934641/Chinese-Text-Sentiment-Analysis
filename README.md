@@ -35,3 +35,7 @@ Before running <I>main.ipynb</I> make sure you load the <I>embeddings</I> and <I
 ## ***The embeddings Folder***  
 * <I>sgns.zhihu.bigram.bz2</I> （Pre-trained word vectors model）<br />Download from: https://github.com/Embedding/Chinese-Word-Vectors
 
+## ***Test Results***
+<center><img width=500 src="https://i.imgur.com/vmmvES8.png"></center>
+
+
