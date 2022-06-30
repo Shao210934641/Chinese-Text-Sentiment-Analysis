@@ -2,6 +2,7 @@
 Chinese text sentiment analysis using deep learning models such as LSTM, BiLSTM and GRU.
 
 $$positive->label('美味')=1$$
+
 $$negative->label('难吃')=0$$
 
 ## ***Flowchart***
