@@ -23,6 +23,7 @@ Before running <I>main.ipynb</I> make sure you load the <I>embeddings</I> and <I
 ## ***jieba Usage***
 * `pip install jieba`
 * `import jieba` <br />Related links: https://github.com/fxsjy/jieba
+<center><img width=600 src="https://i.imgur.com/5zQtA6O.png"></center>
 
 ## ***main.ipynb***
 * The executable file
