@@ -43,9 +43,9 @@ We tried several neural network structures, and because the training samples wer
 * After Embedding the first layer we used BiLSTM to return sequences, then the second layer of 16 units of LSTM did not return sequences but only the final result, and finally a fully linked layer with a sigmoid activation function to output the result.
 
 ## ***Test Results***
-* model.evaluate
+* model.evaluate  
 <center><img width=700 src="https://i.imgur.com/2K9V6zW.png"></center>
-* model.predict
+* model.predict  
 <center><img width=600 src="https://i.imgur.com/vmmvES8.png"></center>
 * confusion matrix  
 <center><img width=600 src="https://i.imgur.com/h0JnFPr.png"></center>
