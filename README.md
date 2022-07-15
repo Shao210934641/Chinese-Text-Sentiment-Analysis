@@ -44,11 +44,11 @@ We tried several neural network structures, and because the training samples wer
 
 ## ***Test Results***
 * model.evaluate  
-<center><img width=700 src="https://i.imgur.com/2K9V6zW.png"></center>
+<center><img width=700 src="https://i.imgur.com/2K9V6zW.png"></center>  
 * model.predict  
-<center><img width=600 src="https://i.imgur.com/vmmvES8.png"></center>
+<center><img width=600 src="https://i.imgur.com/vmmvES8.png"></center>  
 * confusion matrix  
-<center><img width=600 src="https://i.imgur.com/h0JnFPr.png"></center>
+<center><img width=600 src="https://i.imgur.com/h0JnFPr.png"></center>  
 
 ## ***Error Analysis***
 Through our analysis, we find that the meaning of the misclassified text is mostly ambiguous, and even humans can not easily determine the polarity. For example, this sentence with index 305 seems to have no element of satisfaction at all, but this example rating is marked as positive in the training sample, and the prediction of a negative rating made by our model seems reasonable.
