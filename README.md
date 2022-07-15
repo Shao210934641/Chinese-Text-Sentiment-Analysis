@@ -45,8 +45,10 @@ We tried several neural network structures, and because the training samples wer
 ## ***Test Results***
 * model.evaluate  
 <center><img width=700 src="https://i.imgur.com/2K9V6zW.png"></center>  
+
 * model.predict  
 <center><img width=600 src="https://i.imgur.com/vmmvES8.png"></center>  
+
 * confusion matrix  
 <center><img width=600 src="https://i.imgur.com/h0JnFPr.png"></center>  
 
