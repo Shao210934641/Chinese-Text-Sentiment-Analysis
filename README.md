@@ -56,13 +56,13 @@ We tried several neural network structures, and because the training samples wer
 Through our analysis, we find that the meaning of the misclassified text is mostly ambiguous, and even humans can not easily determine the polarity. For example, this sentence with index 305 seems to have no element of satisfaction at all, but this example rating is marked as positive in the training sample, and the prediction of a negative rating made by our model seems reasonable.
 * False Positive Samples
 <center><img width=700 src="https://i.imgur.com/z6ZaNmQ.png"></center> 
-<center><img width=700 src="https://i.imgur.com/z6ZaNmQ.png"></center> 
-<center><img width=700 src="https://i.imgur.com/z6ZaNmQ.png"></center> 
+<center><img width=700 src="https://i.imgur.com/0yLWAgQ.png"></center> 
+<center><img width=700 src="https://i.imgur.com/OyxaNuh.png"></center> 
 
 * False Negative Samples
-<center><img width=700 src="https://i.imgur.com/8mT1TtM.png"></center> https://i.imgur.com/z6ZaNmQ.png
-<center><img width=700 src="https://i.imgur.com/8mT1TtM.png"></center> https://i.imgur.com/z6ZaNmQ.png
-<center><img width=700 src="https://i.imgur.com/8mT1TtM.png"></center> https://i.imgur.com/z6ZaNmQ.png
+<center><img width=700 src="https://i.imgur.com/4okmAZI.png"></center> 
+<center><img width=700 src="https://i.imgur.com/OTVC5Qq.png"></center> 
+<center><img width=700 src="https://i.imgur.com/gsi9ITp.png"></center> 
 
 
 
