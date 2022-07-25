@@ -33,7 +33,7 @@ You need to use Google Colab platform. After opening the main.ipynb file on Goog
   
 2: Use CPU(None) hardware accelerator instead of GPU.  
 
-3: Import the <I>embeddings</I> and <I>datasets</I> folders (import from the colab file area in the left column)
+3: Import the <I>embeddings</I> and <I>datasets</I> folders (import from the colab file area in the left column. if you can not import folders directly, create two empty folders named datasets and embeddings, respectively. Then import their files. )
 
 ## ***jieba Usage***
 * `pip install jieba`
