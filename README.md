@@ -23,9 +23,8 @@ You need to use Google Colab platform. After opening the main.ipynb file on Goog
 
 3: Import the <I>embeddings</I> and <I>datasets</I> folders (import from the colab file area in the left column. If you can not import folders directly, create two empty folders named datasets and embeddings, respectively. Then import their files.)  
 
-## ***jieba Usage***
-* `pip install jieba`
-* `import jieba` <br />Related links: https://github.com/fxsjy/jieba
+## ***jieba Chinese Word Segmentation Module***
+<br />Related links: https://github.com/fxsjy/jieba
 <center><img width=600 src="https://i.imgur.com/5zQtA6O.png"></center>
 
 ## ***main.ipynb***
