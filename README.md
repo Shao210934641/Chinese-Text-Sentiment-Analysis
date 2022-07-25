@@ -17,12 +17,7 @@ You need to use Google Colab platform. After opening the main.ipynb file on Goog
 * `pip install tensorflow==2.5.0`
 * `pip install jieba`
 * `pip install gensim==4.1.2`
-* `pip install numpy==1.19.5`
-   -> pip install python==3.7.3  
-   -> pip install tensorflow==2.5.0  
-   -> pip install jieba  
-   -> pip install gensim==4.1.2  
-   -> pip install numpy==1.19.5  
+* `pip install numpy==1.19.5`  
   
 2: Use CPU(None) hardware accelerator instead of GPU.  
 
