@@ -6,9 +6,6 @@ $$positive->label('美味')=1$$
 
 $$negative->label('难吃')=0$$
 
-## ***Flowchart***
-<center><img width=500 src="https://i.imgur.com/Ln5oRY1.png"></center>
-
 ## ***Getting Started***
 
 You need to use Google Colab platform. After opening the main.ipynb file on Google Colab, make sure you complete these three things first. Otherwise the code will run with an error.  
@@ -23,6 +20,9 @@ You need to use Google Colab platform. After opening the main.ipynb file on Goog
 2: Use CPU(None) hardware accelerator instead of GPU.  
 
 3: Import the <I>embeddings</I> and <I>datasets</I> folders (import from the colab file area in the left column. If you can not import folders directly, create two empty folders named datasets and embeddings, respectively. Then import their files.)  
+
+## ***Flowchart***
+<center><img width=500 src="https://i.imgur.com/Ln5oRY1.png"></center>
 
 ## ***jieba: Chinese Word Segmentation Module***
 * Related links: https://github.com/fxsjy/jieba  
