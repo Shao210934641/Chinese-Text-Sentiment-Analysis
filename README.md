@@ -12,13 +12,13 @@ $$negative->label('难吃')=0$$
 
 The code is written in python and runs on Google Colab (CPU, not GPU). To use it you will need:
 * python 3.7.13
+* tensorflow 2.5.0
 * numpy 1.19.5
 * matplotlib 3.2.2
 * jieba 0.42.1  
 * gensim 4.1.2 
-* tensorflow 2.5.0
 
-Before running <I>main.ipynb</I> make sure you load the <I>embeddings</I> and <I>datasets</I> folders.  
+Before running <I>main.ipynb</I> make sure you import the <I>embeddings</I> and <I>datasets</I> folders.  
 
 ## ***jieba Usage***
 * `pip install jieba`
