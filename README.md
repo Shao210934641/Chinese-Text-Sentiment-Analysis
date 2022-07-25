@@ -22,15 +22,15 @@ Before running <I>main.ipynb</I> make sure you import the <I>embeddings</I> and 
 
 ## ***Getting Started***
 
-**You need to use Google Colab platform. After opening the main.ipynb file on Google Colab platform, make sure you complete these three things first. Otherwise the code will run with an error.**  
-**1:** Download these versions below.   
+You need to use Google Colab platform. After opening the main.ipynb file on Google Colab, make sure you complete these three things first. Otherwise the code will run with an error.  
+1: Download these versions below.   
    -> pip install tensorflow==2.5.0  
    -> pip install numpy==1.19.5  
    -> pip install gensim==4.1.2  
   
-**2:** Use CPU(None) hardware accelerator instead of GPU.  
+2: Use CPU(None) hardware accelerator instead of GPU.  
 
-**3:** Import the <I>embeddings</I> and <I>datasets</I> folders (import from the colab file area in the left column)
+3: Import the <I>embeddings</I> and <I>datasets</I> folders (import from the colab file area in the left column)
 
 ## ***jieba Usage***
 * `pip install jieba`
