@@ -1,5 +1,5 @@
 # Chinese-Text-Sentiment-Analysis
-## Github: https://github.com/Shao210934641/Chinese-Text-Sentiment-Analysis
+#### Github: https://github.com/Shao210934641/Chinese-Text-Sentiment-Analysis
 Chinese text sentiment analysis using deep learning models such as LSTM, BiLSTM and GRU.
 
 $$positive->label('美味')=1$$
