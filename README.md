@@ -10,18 +10,6 @@ $$negative->label('难吃')=0$$
 
 ## ***Getting Started***
 
-The code is written in python and runs on Google Colab (CPU, not GPU). To use it you will need:
-* python 3.7.13
-* tensorflow 2.5.0
-* numpy 1.19.5
-* matplotlib 3.2.2
-* jieba 0.42.1  
-* gensim 4.1.2 
-
-Before running <I>main.ipynb</I> make sure you import the <I>embeddings</I> and <I>datasets</I> folders.  
-
-## ***Getting Started***
-
 You need to use Google Colab platform. After opening the main.ipynb file on Google Colab, make sure you complete these three things first. Otherwise the code will run with an error.  
 
 1: Download these versions below. (especially tensorflow, jieba and gensim)  
@@ -33,7 +21,7 @@ You need to use Google Colab platform. After opening the main.ipynb file on Goog
   
 2: Use CPU(None) hardware accelerator instead of GPU.  
 
-3: Import the <I>embeddings</I> and <I>datasets</I> folders (import from the colab file area in the left column. if you can not import folders directly, create two empty folders named datasets and embeddings, respectively. Then import their files. )
+3: Import the <I>embeddings</I> and <I>datasets</I> folders (import from the colab file area in the left column. If you can not import folders directly, create two empty folders named datasets and embeddings, respectively. Then import their files.)  
 
 ## ***jieba Usage***
 * `pip install jieba`
