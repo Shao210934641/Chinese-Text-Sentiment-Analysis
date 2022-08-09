@@ -8,7 +8,7 @@ $$negative->label('难吃')=0$$
 
 ## ***Getting Started***
 
-You need to use Google Colab platform. After opening the main.ipynb file on Google Colab, make sure you complete these three things first. Otherwise the code will run with an error.  
+You need to use Google Colab platform. After opening the main.ipynb file on Google Colab, make sure you complete these three things first. Otherwise, running the code directly will report an error.  
 
 1: Download these versions below. (especially tensorflow, jieba and gensim)  
 * `pip install python==3.7.3`
