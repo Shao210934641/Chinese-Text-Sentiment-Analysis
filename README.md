@@ -10,7 +10,7 @@ $$negative->label('难吃')=0$$
 
 You need to use Google Colab platform. After opening the main.ipynb file on Google Colab, make sure you complete these three things first. Otherwise, running the code directly will report an error.  
 
-1: Download these versions below. (especially tensorflow, jieba and gensim)  
+1: Download these versions below (especially tensorflow, jieba and gensim). (Inconsistencies with these versions below will result in errors.)
 * `pip install python==3.7.3`
 * `pip install tensorflow==2.5.0`
 * `pip install jieba`
