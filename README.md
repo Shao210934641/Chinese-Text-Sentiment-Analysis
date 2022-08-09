@@ -25,7 +25,7 @@ You need to use Google Colab platform. After opening the main.ipynb file on Goog
 <center><img width=500 src="https://i.imgur.com/Ln5oRY1.png"></center>
 
 ## ***jieba: Chinese Word Segmentation Module***
-* Related links: https://github.com/fxsjy/jieba  
+* Related link: https://github.com/fxsjy/jieba  
 * Some examples(based on the accurate mode of jieba) are shown below:  
 <center><img width=600 src="https://i.imgur.com/5zQtA6O.png"></center>
 
