@@ -3,7 +3,7 @@
 * You need to use **Google Colab** platform. 
 * You don't need to download the file, just open the *main.ipynb* file in the Colab link below and follow the instructions in it to run it.  
 https://drive.google.com/drive/folders/185p_lZkp9sMGiSsS83KHBjRamtoFxjrv?usp=sharing
-* After opening the *main.ipynb*, please first complete STEP 1- 4 at the top of the file (please do not run the code directly or you will get compatibility errors).  
+* After opening *main.ipynb*, please first complete STEP 1- 4 at the top of the file (please do not run *main.ipynb* directly or you will get compatibility errors).  
 
 ## ***Flowchart***
 <center><img width=500 src="https://i.imgur.com/Ln5oRY1.png"></center>
