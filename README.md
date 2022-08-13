@@ -12,7 +12,7 @@ https://drive.google.com/drive/folders/185p_lZkp9sMGiSsS83KHBjRamtoFxjrv?usp=sha
 <center><img width=600 src="https://i.imgur.com/5zQtA6O.png"></center>
 
 ## ***main.ipynb***
-* The executable file
+* The only executable file
 
 ## ***The datasets Folder*** 
 * <I>positive_samples.txt</I> (2000 Chinese positive reviews, label=1）
