@@ -27,7 +27,7 @@ https://drive.google.com/drive/folders/185p_lZkp9sMGiSsS83KHBjRamtoFxjrv?usp=sha
 
 ## ***Model Test Results***
 * model.evaluate  
-<center><img width=700 src="https://i.imgur.com/2K9V6zW.png"></center>  
+<center><img width=700 src="https://i.imgur.com/jGUuXjh.png"></center>  
 
 * model.predict  
 <center><img width=600 src="https://i.imgur.com/vmmvES8.png"></center>  
