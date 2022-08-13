@@ -1,18 +1,7 @@
 ## ***Getting Started***
 
-You need to use Google Colab platform. After opening the main.ipynb file on Google Colab, make sure you complete these three things first. Otherwise, running the code directly will report an error.  
+You need to use Google Colab platform. After opening the main.ipynb file in the link below, please complete Step 1 - 4 at the top. (Please do not run the code directly as it will report a compatibility error)  
 https://drive.google.com/drive/folders/185p_lZkp9sMGiSsS83KHBjRamtoFxjrv?usp=sharing
-
-1: Download these versions below (especially tensorflow, jieba and gensim). (Inconsistencies with these versions below will result in compatibility errors.)
-* `pip install python==3.7.3`
-* `pip install tensorflow==2.5.0`
-* `pip install jieba`
-* `pip install gensim==4.1.2`
-* `pip install numpy==1.19.5`  
-  
-2: Use CPU(None) hardware accelerator instead of GPU.  
-
-3: Import the <I>embeddings</I> and <I>datasets</I> folders (import from the colab file area in the left column. If you can not import folders directly, create two empty folders named datasets and embeddings, respectively. Then import their files.)  
 
 ## ***Flowchart***
 <center><img width=500 src="https://i.imgur.com/Ln5oRY1.png"></center>
