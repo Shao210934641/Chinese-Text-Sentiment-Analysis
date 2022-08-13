@@ -22,8 +22,8 @@ https://drive.google.com/drive/folders/185p_lZkp9sMGiSsS83KHBjRamtoFxjrv?usp=sha
 * <I>sgns.zhihu.bigram.bz2</I> （Pre-trained word vectors model）<br />Download from: https://github.com/Embedding/Chinese-Word-Vectors
 
 ## ***Model Training Results***
-<center><img src="https://i.imgur.com/egoXJgu.png"></center>  
-<center><img src="https://i.imgur.com/3V8QQX5.png"></center> 
+<center><img width=500 src="https://i.imgur.com/egoXJgu.png"></center>  
+<center><img width=500 src="https://i.imgur.com/3V8QQX5.png"></center> 
 
 ## ***Model Test Results***
 * model.evaluate  
@@ -33,7 +33,6 @@ https://drive.google.com/drive/folders/185p_lZkp9sMGiSsS83KHBjRamtoFxjrv?usp=sha
 <center><img width=600 src="https://i.imgur.com/vmmvES8.png"></center>  
 
 * confusion matrix  
-<center><img width=500 src="https://i.imgur.com/h0JnFPr.png"></center>  
 <center><img width=500 src="https://i.imgur.com/HBkh0Xz.png"></center>  
 
 * False Positive Samples
