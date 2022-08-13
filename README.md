@@ -1,14 +1,7 @@
-# Chinese-Text-Sentiment-Analysis
-#### Github: https://github.com/Shao210934641/Chinese-Text-Sentiment-Analysis
-Chinese text sentiment analysis using deep learning models such as LSTM, BiLSTM and GRU.
-
-$$positive->label('美味')=1$$
-
-$$negative->label('难吃')=0$$
-
 ## ***Getting Started***
 
 You need to use Google Colab platform. After opening the main.ipynb file on Google Colab, make sure you complete these three things first. Otherwise, running the code directly will report an error.  
+https://drive.google.com/drive/folders/185p_lZkp9sMGiSsS83KHBjRamtoFxjrv?usp=sharing
 
 1: Download these versions below (especially tensorflow, jieba and gensim). (Inconsistencies with these versions below will result in compatibility errors.)
 * `pip install python==3.7.3`
