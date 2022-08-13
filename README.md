@@ -1,6 +1,6 @@
 ## ***Getting Started***
 
-You need to use Google Colab platform. After opening the main.ipynb file in the link below, please complete Step 1 - 4 at the top. (Please do not run the code directly, otherwise compatibility errors will be reported)  
+You need to use Google Colab platform. After opening the ***main.ipynb*** file in the link below, please complete Step 1 - 4 at the top. (Please do not run the code directly, otherwise compatibility errors will be reported)  
 https://drive.google.com/drive/folders/185p_lZkp9sMGiSsS83KHBjRamtoFxjrv?usp=sharing
 
 ## ***Flowchart***
