@@ -23,7 +23,7 @@ https://drive.google.com/drive/folders/185p_lZkp9sMGiSsS83KHBjRamtoFxjrv?usp=sha
 
 ## ***Model Training Results***
 <center><img src="https://i.imgur.com/egoXJgu.png"></center>  
-<center><img src="https://i.imgur.com/egoXJgu.png"></center> 
+<center><img src="https://i.imgur.com/3V8QQX5.png"></center> 
 
 ## ***Model Test Results***
 * model.evaluate  
