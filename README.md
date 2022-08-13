@@ -22,8 +22,8 @@ https://drive.google.com/drive/folders/185p_lZkp9sMGiSsS83KHBjRamtoFxjrv?usp=sha
 * <I>sgns.zhihu.bigram.bz2</I> （Pre-trained word vectors model）<br />Download from: https://github.com/Embedding/Chinese-Word-Vectors
 
 ## ***Model Training Results***
-<center><img width=700 src="https://i.imgur.com/egoXJgu.png"></center>  
-<center><img width=700 src="https://i.imgur.com/egoXJgu.png"></center> 
+<center><img src="https://i.imgur.com/egoXJgu.png"></center>  
+<center><img src="https://i.imgur.com/egoXJgu.png"></center> 
 
 ## ***Model Test Results***
 * model.evaluate  
