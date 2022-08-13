@@ -1,8 +1,8 @@
 ## ***Getting Started***
 
 * You need to use **Google Colab** platform. 
-* You don't need to download the file, just open the *main.ipynb* file in the link below and follow the instructions in it to run it on Google Colab.(Please do not run the main.ipynb directly or you will get compatibility errors)  
-* After opening the main.ipynb file in the link above, please first complete STEP 1- 4 at the top of the file (please do not run the code directly or you will get compatibility errors). 
+* You don't need to download the file, just open the *main.ipynb* file in the link below and follow the instructions in it to run it.  
+* After opening the main.ipynb file in the link above, please first complete STEP 1- 4 at the top of the file (please do not run the code directly or you will get compatibility errors).  
 https://drive.google.com/drive/folders/185p_lZkp9sMGiSsS83KHBjRamtoFxjrv?usp=sharing
 
 * You need to use **Google Colab** platform (Firstly have a Google account. Please do not use any other IDEs other than google colab in case of any compatibility errors).
